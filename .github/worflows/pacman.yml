@@ -21,7 +21,7 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ https://github.com/Rokibul-Islam-Robi/Rokibul-Islam-Robi }}
+          github_user_name: ${{ github.Rokibul-Islam-Robi }}
 
 
       - name: push pacman-contribution-graph.svg to the output branch
