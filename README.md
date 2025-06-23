@@ -16,6 +16,7 @@
 - 💬 Ask me about **Data Entry, Data collection,MS. word, MS. Excel, MS PowerPoint, Basic Graphic Design, etc**
 
 - 📫 How to reach me **islam22205341167@diu.edu.bd**
+- 📫 Or **rokebul.islam088@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
