@@ -48,4 +48,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+## 🌟 Highlights
+![PRO](https://img.shields.io/badge/PRO-6f42c1?style=for-the-badge)
+![DEVELOPER](https://img.shields.io/badge/DEVELOPER-0a84ff?style=for-the-badge)
+![AI ENTHUSIAST](https://img.shields.io/badge/AI_ENTHUSIAST-f39c12?style=for-the-badge)
+
 ###
