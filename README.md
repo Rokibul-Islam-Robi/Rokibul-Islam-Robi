@@ -1,9 +1,19 @@
 
+
+
+
+
 # Rokibulislam_Robi
 ![logo](https://github.com/Rokibul-Islam-Robi/Rokibulislam_Robi/blob/main/Github%20Banner.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rokibul+Islam+Robi" alt="Typing SVG" />
-</p><h3 align="center">A passionate Software Engineer.🚀</h3>
+  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1200&color=00F5D4&background=00121900&center=true&vCenter=true&width=700&lines=A+Passionate+Software+Engineer+🚀;Turning+Ideas+into+Reality+🌟" />
+</p>
+
+
 </div>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/web-developer-mascot-company-logo-line-art-generative-ai_934475-12202.jpg">
 
