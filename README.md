@@ -17,7 +17,7 @@
 
 
 
-- 🌱 I’m currently learning Daffodil International University.
+- 🌱 Graduated From Daffodil International University.
 
 - 👨‍💻 All of my projects are available at https://linkdin/rokibulislam088
 
